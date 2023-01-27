@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on my first website [MV-Restaurant](https://michaela03.github.io/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java.**
 
-- 🤝 I’m looking to collaborate on **different projects to improve my skills**
+- 🤝 I’m looking to collaborate on **different projects to improve my skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaela03](https://github.com/michaela03)
 
-- 💬 Ask me about **my projects**
+- 💬 Ask me about **my projects.**
 
-- 📫 How to reach me **via my contacts below**
+- 📫 How to reach me **via my contacts below.**
 
 - 📄 Know about my experiences [https://github.com/michaela03](https://github.com/michaela03)
 
