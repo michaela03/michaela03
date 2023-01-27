@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michaela kolarova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaela kolarova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michaela-kolarova-380146231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaela kolarova" height="30" width="40" /></a>
 <a href="https://instagram.com/mihaela003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mihaela003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/michaela03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaela03" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mishelkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mishelkkk" height="30" width="40" /></a>
+<a href="https://leetcode.com/michaela03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="michaela03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mishelkkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mishelkkk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
