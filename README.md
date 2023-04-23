@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my first website [MV-Restaurant](https://michaela03.github.io/)
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **C#.**
 
 - 🤝 I’m looking to collaborate on **different projects to improve my skills.**
 
