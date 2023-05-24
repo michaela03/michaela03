@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihaela</h1>
-<h3 align="center">I am currently a first year software engineering student.</h3>
+<h3 align="center">First year Software Engineering student. </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on my first website MV-Restaurant<br><br>🌱 I’m currently learning C#.<br><br>🤝 I’m looking to collaborate on different projects to improve my skills.<br><br>👨‍💻 All of my projects are available at https://github.com/michaela03<br><br>💬 Ask me about my projects.<br><br>📫 How to reach me via my contacts below.<br><br>📄 Know about my experiences https://github.com/michaela03<br><br>⚡ Fun fact I love swimming and coding on the beach.
